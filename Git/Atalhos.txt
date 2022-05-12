@@ -1,0 +1,17 @@
+Atalhos usados para realizar ações no Git Bash.
+
+- git init: Iniciar repositório no Git.
+
+- ls: Listar arquivos dentro de uma pasta.
+
+- ls -a: Mostra arquivos ocultos.
+
+- cd + nome da pasta: "change directory", ou seja, ir para outra pasta.
+
+- mkdir: Criar pasta.
+
+- git add: Coloca os arquidos da pasta na Staging Area e os prepara para serem comitados.
+
+- git commit -m "comentário": Comita as alterações para o repositório.
+
+- git log: Lista os commits feitos no repositório em ordem cronológica.

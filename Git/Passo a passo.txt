@@ -1,0 +1,8 @@
+Passo a passo para criar um repositório no Git e enviá-lo ao GitHub:
+
+1) Criar novo repositório no GitHub.
+2) Copiar link HTTPS ou SSH do repositório.
+3) Criar a pasta, no PC, onde irá armazenar os dados e modificações feitas no repositório.
+4) Abrir o Git Bash na pasta.
+5) git clone link HTTPS ou git clone link SSH
+6) 
